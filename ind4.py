@@ -1,2 +1,2 @@
-a_str=input() [ : :-1]
-print(a_str)
+b_str=input() [ : :-1]
+print(b_str)
